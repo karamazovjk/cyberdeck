@@ -18,9 +18,21 @@
 
 Klaus 2.0 é um cyberdeck de uso geral construído com princípios de reaproveitamento eletrônico. O projeto une hardware de descarte com software livre para criar uma estação de trabalho portátil e autossuficiente — funcional sem conexão com a internet, acessível a qualquer dispositivo na mesma rede local.
 
-O projeto é desenvolvido como iniciação científica na **UFABC**, com foco nas interseções entre e-waste, acesso à informação e tecnologia acessível.
+O projeto era, inicialmente, um estudo pessoal de hardware e funcionamento eletronico; porém há um forte interesse em transforma-lo em uma pesquisa academica, com intenção de se tornar uma iniciação científica na **UFABC**, com foco nas interseções entre e-waste, acesso à informação e tecnologia acessível.
 
 ---
+
+## Contexto acadêmico
+
+
+- Como hardware descartado pode ser reaproveitado como infraestrutura de acesso à informação?
+- Quais são as barreiras práticas e potenciais de soluções offline para inclusão digital?
+- De que forma projetos de e-waste reaproveitado se relacionam com princípios de tecnologia acessível?
+
+> Publicações e relatórios serão adicionados conforme o projeto avança.
+
+---
+
 
 ## Hardware
 
@@ -38,22 +50,22 @@ O projeto é desenvolvido como iniciação científica na **UFABC**, com foco na
 
 ## Funcionalidades planejadas
 
-### ✅ Biblioteca offline
+### Biblioteca offline
 - **Wikipedia em português** (completa, com imagens) via [Kiwix](https://kiwix.org)
 - **Project Gutenberg** — acervo de livros em domínio público
 - Servido localmente via `kiwix-serve`, acessível por qualquer dispositivo na rede
 
-### 📻 Rádio SDR
+### Rádio SDR
 - Recepção de rádio via módulo **RTL-SDR** (USB)
 - Software: [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus) ou [GQRX](https://gqrx.dk/)
 - Antena acoplável externamente
 
-### 💻 Laboratório de programação
+### Laboratório de programação
 - Python, C, e ambiente de desenvolvimento leve
 - Editor de código: [VSCodium](https://vscodium.com/) ou [Lite XL](https://lite-xl.com/)
 - Notebooks Jupyter para ciência de dados
 
-### 📝 Utilitários gerais
+### Utilitários gerais
 - Bloco de notas / anotações offline
 - Calculadora científica
 - Ferramentas de terminal
@@ -79,17 +91,8 @@ O projeto é desenvolvido como iniciação científica na **UFABC**, com foco na
 ├── projetos/
 └── backups/
 ```
+### observações:
 
----
-
-## Contexto acadêmico
-
-Este projeto está sendo desenvolvido como pesquisa de iniciação científica na UFABC. As questões centrais que guiam o trabalho:
-
-- Como hardware descartado pode ser reaproveitado como infraestrutura de acesso à informação?
-- Quais são as barreiras práticas e potenciais de soluções offline para inclusão digital?
-- De que forma projetos de e-waste reaproveitado se relacionam com princípios de tecnologia acessível?
-
-> Publicações e relatórios serão adicionados conforme o projeto avança.
+Como parte da iniciativa, todo o processo e componentes utilizados serão documentados, de forma a facilitar a compreensão e disponibilização desses dados, dessa forma, qualquer pessoa interessada em reproduzir ou adaptar o projeto terá total liberdade para tal.
 
 ---
