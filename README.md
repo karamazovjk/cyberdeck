@@ -3,6 +3,16 @@
 > Um laboratório portátil construído a partir de hardware descartado, doações e peças ociosas — com foco em acesso à informação, inclusão digital e redução de e-waste.
 
 ---
+### Colaboradores
+
+- **Jackson** — [@karamazovjk](https://github.com/karamazovjk)
+- **Ana Beatriz** — [@usuario](https://github.com/usuario)
+
+### Status
+
+🟡 Em construção — hardware sendo montado, software em planejamento.
+
+---
 
 ## O que é
 
@@ -83,17 +93,3 @@ Este projeto está sendo desenvolvido como pesquisa de iniciação científica n
 > Publicações e relatórios serão adicionados conforme o projeto avança.
 
 ---
-
-## Autoras
-
-- **Jackson** — [@karamazovjk](https://github.com/karamazovjk)
-- **[nome da amiga]** — [@usuario](https://github.com/usuario)
-
-UFABC — Bacharelado em Ciências e Tecnologia  
-Ênfases: Ciência de Dados / Neurociência
-
----
-
-## Status
-
-🟡 Em construção — hardware sendo montado, software em planejamento.
