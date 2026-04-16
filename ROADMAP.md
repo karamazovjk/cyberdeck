@@ -66,7 +66,7 @@ Este documento descreve as fases planejadas do projeto, do hardware bruto até u
 
 - [ ] Definir orientador(a) na UFABC
 - [ ] Formular questão de pesquisa formal
-- [ ] Levantar referências bibliográficas (`research/references.md`)
+- [ ] Levantar referências bibliográficas (`research.md`)
 - [ ] Produzir primeiro relatório de progresso
 - [ ] Submeter para edital de IC
 
