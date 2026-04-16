@@ -18,7 +18,7 @@
 
 Klaus 2.0 é um cyberdeck de uso geral construído com princípios de reaproveitamento eletrônico. O projeto une hardware de descarte com software livre para criar uma estação de trabalho portátil e autossuficiente — funcional sem conexão com a internet, acessível a qualquer dispositivo na mesma rede local.
 
-O projeto era, inicialmente, um estudo pessoal de hardware e funcionamento eletronico; porém há um forte interesse em transforma-lo em uma pesquisa academica, com intenção de se tornar uma iniciação científica na **UFABC**, com foco nas interseções entre e-waste, acesso à informação e tecnologia acessível.
+O projeto era, inicialmente, um estudo pessoal de hardware e funcionamento eletrônico; porém há a intenção em transforma-lo em uma pesquisa academica, ou até mesmo uma iniciação científica na **UFABC**, com foco nas interseções entre e-waste, acesso à informação e tecnologia acessível; visto que os envolvidos são estudantes de Ciência de Dados e Ciência da Computação, respectivamente.
 
 ---
 
